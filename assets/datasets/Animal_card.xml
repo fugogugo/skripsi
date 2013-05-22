@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget size="40 50" name="dog">
+            
+            <VirtualButton
+                name="sound"
+                enabled="true"
+                rectangle="-18.55	-24.2	18.45	-14.15" />
+        </ImageTarget>
+        <ImageTarget size="40 50" name="fish">
+            <VirtualButton
+                name="sound"
+                enabled="true"
+                rectangle="-18.55	-24.2	18.45	-14.15" />
+        </ImageTarget>
+        <ImageTarget size="40 50" name="pig">
+            <VirtualButton
+                name="sound"
+                enabled="true"
+                rectangle="-18.55	-24.2	18.45	-14.15" />
+        </ImageTarget>
+        <ImageTarget size="40 50" name="tiger">
+            <VirtualButton
+                name="sound"
+                enabled="true"
+                rectangle="-18.55	-24.2	18.45	-14.15" />
+        </ImageTarget>
+        <ImageTarget size="40 50" name="cow">
+            <VirtualButton
+                name="sound"
+                enabled="true"
+                rectangle="-18.55	-24.2	18.45	-14.15" />
+        </ImageTarget>
+        <ImageTarget size="40 50" name="horse">
+            <VirtualButton
+                name="sound"
+                enabled="true"
+                rectangle="-18.55	-24.2	18.45	-14.15" />
+        </ImageTarget>
+        <ImageTarget size="40 50" name="cat">
+            <VirtualButton
+                name="sound"
+                enabled="true"
+                rectangle="-18.55	-24.2	18.45	-14.15" />
+        </ImageTarget>
+    </Tracking>
+</QCARConfig>
